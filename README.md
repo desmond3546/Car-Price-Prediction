@@ -1,0 +1,2 @@
+Developed a predictive model using Python and Jupyter Notebook to estimate car prices based on features like brand, model, mileage, fuel type, transmission, and year of manufacture. Implemented various Machine Learning algorithms, including Linear Regression, Decision Tree Regressor, and Random Forest, to evaluate performance and accuracy. 
+The system helps users and dealers make data-driven pricing decisions in the automobile market.
